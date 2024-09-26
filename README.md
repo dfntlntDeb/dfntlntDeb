@@ -1,8 +1,25 @@
-<h1 align="center">Hi 👋, I'm Deb.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dfntlntdeb&label=Profile%20views&color=0e75b6&style=flat" alt="dfntlntdeb" /> </p>
+# Hello, I'm [Your Name] 👋
 
+I’m a passionate Bachelor of Science in Information Technology (BSIT) student, specializing in software development and IT solutions. I enjoy building applications that solve real-world problems, and I’m constantly learning and exploring new technologies. I have a strong foundation in both backend and frontend development and thrive in collaborative, fast-paced environments.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## Technologies I Work With:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dfntlntdeb&show_icons=true&locale=en" alt="dfntlntdeb" /></p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+I have experience working with:
+- **Python**: From automating tasks to building GUI applications with Tkinter.
+- **Java**: Strong knowledge in object-oriented programming and building robust, scalable applications.
+
+## What I Do:
+
+- Full-stack development projects, focusing on both frontend design and backend logic.
+- Building databases and integrating applications with SQL.
+- Learning new technologies to keep up with the fast-evolving tech industry.
+
+## My Goals:
+
+As a soon-to-be graduate, I’m eager to join a dynamic team where I can apply my skills and grow as a software developer. I’m particularly interested in projects that involve problem-solving, innovation, and making a meaningful impact.
+
+Feel free to explore my repositories, connect with me, or get in touch for potential collaborations or job opportunities!
+
